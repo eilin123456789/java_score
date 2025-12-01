@@ -40,5 +40,6 @@ public class Score {
             }
         }
         System.out.println("Thanks for checking your Score!");
+        System.out.println("Test");
     }
 }
